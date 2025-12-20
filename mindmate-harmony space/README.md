@@ -4,12 +4,12 @@ A compassionate AI-powered mental wellbeing companion built with Jaclang OSP gra
 
 ## Features
 
-- 🎭 **Mood Tracking**: Log emotions with intensity, triggers, and activities
-- 📊 **Pattern Analysis**: AI-powered detection of emotional trends via graph walkers
-- 💡 **Smart Suggestions**: Personalized coping strategies from byLLM agents
-- 📝 **Secure Journaling**: Private journal entries with emotion tracking
-- 📈 **Visual Insights**: Interactive charts and timelines
-- 🧘 **Wellness Tools**: Breathing exercises and mindfulness prompts
+- **Mood Tracking**: Log emotions with intensity, triggers, and activities
+-  **Pattern Analysis**: AI-powered detection of emotional trends via graph walkers
+- **Smart Suggestions**: Personalized coping strategies from byLLM agents
+- **Secure Journaling**: Private journal entries with emotion tracking
+- **Visual Insights**: Interactive charts and timelines
+- **Wellness Tools**: Breathing exercises and mindfulness prompts
 
 ## Tech Stack
 
@@ -144,5 +144,6 @@ node MoodLoggerComponent {
 MIT License
 
 ## Disclaimer
+
 
 MindMate is a wellbeing tool, not a replacement for professional mental health care.
